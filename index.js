@@ -8,5 +8,3 @@ function writeCards(names,event)
   }
   return arr;
 }
-
-//writeCards(["Ada", "Brendan", "Ali"], "birthday");
